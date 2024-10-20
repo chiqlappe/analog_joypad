@@ -5,3 +5,4 @@
 - アナログジョイポートが必要です
 - アナログジョイポートの製作方法はこちら
 https://github.com/chiqlappe/analog_joyport
+[製作マニュアル](https://github.com/chiqlappe/analog_joypad/blob/main/manual.pdf)
