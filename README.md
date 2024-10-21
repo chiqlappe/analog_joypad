@@ -10,4 +10,4 @@ https://github.com/chiqlappe/analog_joyport
 
 ## 基板の製作
 
-[製作マニュアル](https://github.com/chiqlappe/analog_joypad/blob/main/manual.pdf)
+- [製作マニュアル](https://github.com/chiqlappe/analog_joypad/blob/main/manual.pdf)
